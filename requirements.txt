@@ -6,3 +6,4 @@ clr>=1.0.3
 Flask==0.12.2
 wsgidav>=2.4.1
 cheroot>=6.3.3
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
